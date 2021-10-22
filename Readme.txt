@@ -1,1 +1,1 @@
-<p>Designed with &#128151; for Hind Defence Classes</p>
+Designed for Hind Defence Classes
